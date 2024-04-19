@@ -1,0 +1,16 @@
+.main-nav{
+  background-color: var(--light-white) !important;
+}
+.main-nav .logo{
+  font-size: 2rem;
+  
+}
+.main-nav a:hover{
+  color: var(--accent-color) !important;
+}
+.main-nav .active{
+  color: var(--accent-color) !important;
+}
+.main-nav .active{
+  color: var(--accent-color) !important;
+}
